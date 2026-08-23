@@ -1,0 +1,7 @@
+{
+  "name": "WebMint",
+  "description": "Modern website development and workflow automation agency helping businesses choose and build the right digital system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
